@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+komikm.com	TRUE	/	FALSE	1999999999	exp_last_visit	1401809244
+komikm.com	TRUE	/	FALSE	1999999999	exp_last_activity	1717169244
+komikm.com	TRUE	/	FALSE	1999999999	exp_tracker	%7B%220%22%3A%22robots.txt%22%2C%221%22%3A%22penulis%2Fustaz-pahrol-mohamad-juoi%22%2C%22token%22%3A%22d38672ff7087eaf0435bf1c8e6c52396c29cc0db5ec8fb9ae6ce35e75b58baf9433290231506acc27d27945c395ce144%22%7D
+komikm.com	TRUE	/	FALSE	1999999999	exp_csrf_token	ebf3b7188b26f4820bb6f464d98440a94db9659d
+komikm.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
